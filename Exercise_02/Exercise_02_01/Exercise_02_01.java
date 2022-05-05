@@ -21,5 +21,6 @@ public class Exercise_02_01 {
 		// Display results
 		System.out.println(celsius + " Celsius is " + fahrenheit
 			+ " Fahrenheit"); 
+		System.out.println("Here is my GitHub Assignment")
 	}
 }
